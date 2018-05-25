@@ -1,0 +1,10 @@
+Last finished URL before crash:
+https://www.tripadvisor.com/Hotel_Review-g186605-d206795-Reviews-Dublin_Skylon_Hotel-Dublin_County_Dublin.html 1526522218529 1526522363660
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.tripadvisor.com/HotelsNear-g274707-d9576025-Charles_Square-Prague_Bohemia.html
+https://www.tripadvisor.com/Hotels-g60827-Brooklyn_New_York-Hotels.html
+https://www.tripadvisor.com/HotelsList-Pigeon_Forge-Hotels-With-Balconies-zfp41930.html
+https://www.tripadvisor.com/Hotel_Review-g186605-d206795-Reviews-Dublin_Skylon_Hotel-Dublin_County_Dublin.html
+https://www.tripadvisor.com/HotelsList-San_Francisco-Hotels-With-Indoor-Pools-zfp10849286.html
+-----------------------------------

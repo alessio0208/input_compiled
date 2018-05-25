@@ -1,0 +1,20 @@
+Last finished URL before crash:
+https://www.iconfinder.com/icons/837800/download/icns 1526597454740 -5
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.iconfinder.com/iconsets/virtual-reality-retro-1
+https://www.iconfinder.com/
+https://www.iconfinder.com/icons/837800/download/icns
+https://www.iconfinder.com/iconsets/snapchat-ui
+https://www.iconfinder.com/about/privacypolicy
+-----------------------------------
+Last finished URL before crash:
+https://www.iconfinder.com/icons/2180804/download/png/64 1526599120955 -5
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.iconfinder.com/events-and-entertainment-icons
+https://www.iconfinder.com/icons/2180804/download/png/64
+https://www.iconfinder.com/icons/2308094/download/png/32
+https://www.iconfinder.com/icons/2465312/download/csh/128
+https://www.iconfinder.com/icons/2407038/download/png/20
+-----------------------------------

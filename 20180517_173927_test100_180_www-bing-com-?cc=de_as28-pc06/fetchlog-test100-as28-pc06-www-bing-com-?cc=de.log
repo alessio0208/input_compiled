@@ -1,0 +1,54 @@
+-------------------- NEW RUN --------------------
+Starting
+Don Mai 17 17:39:27 CEST 2018
+Script: saving information about used TBB
+pref("torbrowser.version", "7.5.2");
+user_pref("extensions.enabledAddons", "torbutton%40torproject.org:1.9.8.6,tor-launcher%40torproject.org:0.2.14.4,%7Be4a8a97b-f2ed-450b-b12d-ee082ba24781%7D:3.17,%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:52.7.2");
+Script: emptying status file
+Script: initializing number of streams and kill streams status file
+Script: saving own ip
+Script: continuosly saving ips of tor entry nodes
+Script: checking for duplicate urls
+Script: randomize url file and remove duplicates
+Script: starting tcpdump
+Script: starting Firefox
+Processing file run-www-bing-com-?cc=de-random-00000000.txt
+everything went ok
+Processing file run-www-bing-com-?cc=de-random-00000001.txt
+everything went ok
+Processing file run-www-bing-com-?cc=de-random-00000002.txt
+everything went ok
+Processing file run-www-bing-com-?cc=de-random-00000003.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.bing.com/search?q=imgsrc&qs=n&form=QBLH&sp=-1&pq=imgsrc&sc=8-6&sk=&cvid=F7733C6285874F009C1856E5503339C2
+https://www.bing.com/search?q=youporon&qs=n&form=QBLH&sp=-1&pq=youporon&sc=3-8&sk=&cvid=1EF7FADB6F994A74BEC8CEEA1D9E7145
+https://www.bing.com/search?q=B-Real&filters=ufn%3a%22B-Real%22+sid%3a%224dd7e938-a269-432b-4a7b-0a664dc70fa3%22+catguid%3a%22d67ce93c-51ea-cbf3-7a31-7ecd6b8d76a3_942c80f0%22+segment%3a%22generic.carousel%22&FORM=SNAPST
+https://www.bing.com/?scope=web&FORM=HDRSC1
+https://www.bing.com/search?q=Amazon.com%2c+Inc.&filters=ufn%3a%22Amazon.com%2c+Inc.%22+sid%3a%22ce00286a-e903-ff2c-7dac-b49bd707399c%22+catguid%3a%22a8dbcd8f-fe22-fdb9-ca9d-f5c9f877a181_cfb02057%22+segment%3a%22generic.carousel%22&FORM=SNAPST
+Last finished URL before crash:
+https://www.bing.com/?scope=web&FORM=HDRSC1 1526573028388 1526573031080
+Processing file run-www-bing-com-?cc=de-random-00000004.txt
+everything went ok
+Processing file run-www-bing-com-?cc=de-random-00000005.txt
+everything went ok
+Processing file run-www-bing-com-?cc=de-random-00000006.txt
+everything went ok
+Processing file run-www-bing-com-?cc=de-random-00000007.txt
+everything went ok
+Processing file run-www-bing-com-?cc=de-random-00000008.txt
+everything went ok
+Processing file run-www-bing-com-?cc=de-random-00000009.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.bing.com/search?q=Federal+government+of+the+United+States&filters=ufn%3a%22Federal+government+of+the+United+States%22+sid%3a%22cc42a877-a323-a4a9-7436-a09ffb412743%22+catguid%3a%22db648807-3be2-fcd0-5b3e-436b794c9629_cfb02057%22+segment%3a%22generic.carousel%22&FORM=SNAPST
+https://www.bing.com/search?q=msn&qs=n&form=QBLH&sp=-1&pq=msn&sc=9-3&sk=&cvid=1B72E4D1E0FC4F25B087095B5A139A53
+https://www.bing.com/search?q=tattoos&qs=n&form=QBLH&sp=-1&pq=tattoos&sc=8-7&sk=&cvid=948BBFE19CCF4600B48F0827B78E67BE
+https://www.bing.com/search?q=direct+tv&qs=n&form=QBLH&sp=-1&pq=direct+tv&sc=9-9&sk=&cvid=9409C6EBD950414F8DD6F6346882EC79
+https://www.bing.com/search?q=backpage&qs=n&form=QBLH&sp=-1&pq=backpage&sc=9-8&sk=&cvid=70A324AC0C85419B8445B7434AAE69AA
+Last finished URL before crash:
+https://www.bing.com/search?q=google.com&qs=n&form=QBLH&sp=-1&pq=google.com&sc=8-10&sk=&cvid=E33B2DEDE6F844B4A1252188C345A1DF 1526576692417 1526576695632
+Processing file run-www-bing-com-?cc=de-random-00000010.txt
+everything went ok
+Script: killing programs
+-------------------Fetched 51 URLs once
+Finished
+Don Mai 17 19:36:08 CEST 2018

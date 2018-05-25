@@ -1,0 +1,67 @@
+-------------------- NEW RUN --------------------
+Starting
+Mit Mai 16 04:56:04 CEST 2018
+Script: saving information about used TBB
+pref("torbrowser.version", "7.5.2");
+user_pref("extensions.enabledAddons", "torbutton%40torproject.org:1.9.8.6,tor-launcher%40torproject.org:0.2.14.4,%7Be4a8a97b-f2ed-450b-b12d-ee082ba24781%7D:3.17,%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:52.7.2");
+Script: emptying status file
+Script: initializing number of streams and kill streams status file
+Script: saving own ip
+Script: continuosly saving ips of tor entry nodes
+Script: checking for duplicate urls
+Script: randomize url file and remove duplicates
+Script: starting tcpdump
+Script: starting Firefox
+Processing file run-www-meetup-com-de-DE--random-00000000.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.meetup.com/de-DE/help/
+https://www.meetup.com/de-DE/Soul-Biz-Sisters/events/248518075/
+https://www.meetup.com/de-DE/guidelines/?subnav=usage
+https://www.meetup.com/de-DE/Lesbian-Social-Group-of-Knoxville/
+https://www.meetup.com/de-DE/sdknitorcrochet/events/248558832/
+Last finished URL before crash:
+Processing file run-www-meetup-com-de-DE--random-00000001.txt
+everything went ok
+Processing file run-www-meetup-com-de-DE--random-00000002.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.meetup.com/de-DE/terms/
+https://www.meetup.com/de-DE/Women-Techmakers-Berlin
+https://www.meetup.com/de-DE/find/events/language/
+https://www.meetup.com/de-DE/ThoughtWorks-Berlin/photos/
+https://www.meetup.com/de-DE/German-Language-Events-Lernwerkstatt-Berlin/events/xbdllpyxfbcc/
+Last finished URL before crash:
+https://www.meetup.com/de-DE/topics/usability/ 1526441897491 1526441906906
+Processing file run-www-meetup-com-de-DE--random-00000003.txt
+everything went ok
+Processing file run-www-meetup-com-de-DE--random-00000004.txt
+everything went ok
+Processing file run-www-meetup-com-de-DE--random-00000005.txt
+everything went ok
+Processing file run-www-meetup-com-de-DE--random-00000006.txt
+everything went ok
+Processing file run-www-meetup-com-de-DE--random-00000007.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.meetup.com/de-DE/topics/communication-skills/
+https://www.meetup.com/de-DE/TheFamilyBerlin/members/?op=leaders
+https://www.meetup.com/de-DE/privacy/
+https://www.meetup.com/de-DE/blndevops/events/248640485/
+https://www.meetup.com/de-DE/Berlin-Live-with-Awareness-Courage-and-Love-Meetup
+Last finished URL before crash:
+https://www.meetup.com/de-DE/TheFamilyBerlin/members/?op=leaders 1526446310661 1526446319618
+Processing file run-www-meetup-com-de-DE--random-00000008.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.meetup.com/de-DE/cookie_policy/
+https://www.meetup.com/de-DE/CultiBL/events/248347770/
+https://www.meetup.com/de-DE/find/events/lgbtq/
+https://www.meetup.com/de-DE/register/
+https://www.meetup.com/de-DE/find/events/health-wellness/
+Last finished URL before crash:
+https://www.meetup.com/de-DE/TheFamilyBerlin/members/?op=leaders 1526446310661 1526446319618
+Processing file run-www-meetup-com-de-DE--random-00000009.txt
+everything went ok
+Processing file run-www-meetup-com-de-DE--random-00000010.txt
+everything went ok
+Script: killing programs
+-------------------Fetched 51 URLs once
+Finished
+Mit Mai 16 08:00:14 CEST 2018

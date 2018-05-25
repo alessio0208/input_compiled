@@ -1,0 +1,54 @@
+-------------------- NEW RUN --------------------
+Starting
+Die Mai 15 12:54:09 CEST 2018
+Script: saving information about used TBB
+pref("torbrowser.version", "7.5.2");
+user_pref("extensions.enabledAddons", "torbutton%40torproject.org:1.9.8.6,tor-launcher%40torproject.org:0.2.14.4,%7Be4a8a97b-f2ed-450b-b12d-ee082ba24781%7D:3.17,%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:52.7.2");
+Script: emptying status file
+Script: initializing number of streams and kill streams status file
+Script: saving own ip
+Script: continuosly saving ips of tor entry nodes
+Script: checking for duplicate urls
+Script: randomize url file and remove duplicates
+Script: starting tcpdump
+Script: starting Firefox
+Processing file run-www-pinterest-de--random-00000000.txt
+everything went ok
+Processing file run-www-pinterest-de--random-00000001.txt
+everything went ok
+Processing file run-www-pinterest-de--random-00000002.txt
+everything went ok
+Processing file run-www-pinterest-de--random-00000003.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.pinterest.de/aallenreuss/
+https://www.pinterest.de/html_sitemap/boards_a_0_359.html
+https://www.pinterest.de/a_gracegraham/art/
+https://www.pinterest.de/a7592/stuff/
+https://www.pinterest.de/pin/749004981751888245/
+Last finished URL before crash:
+https://www.pinterest.de/a_gracegraham/art/ 1526384017964 1526384036033
+Processing file run-www-pinterest-de--random-00000004.txt
+everything went ok
+Processing file run-www-pinterest-de--random-00000005.txt
+everything went ok
+Processing file run-www-pinterest-de--random-00000006.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.pinterest.de/abby739/
+https://www.pinterest.de/topics/remodels-and-restorations/
+https://www.pinterest.de/_/_/help/?utm_campaign=signup_page&utm_source=web
+https://www.pinterest.de/pin/862087553646371911/
+https://www.pinterest.de/Pin/witzig/
+Last finished URL before crash:
+https://www.pinterest.de/pin/862087553646371911/ 1526387255682 1526387267307
+Processing file run-www-pinterest-de--random-00000007.txt
+everything went ok
+Processing file run-www-pinterest-de--random-00000008.txt
+everything went ok
+Processing file run-www-pinterest-de--random-00000009.txt
+everything went ok
+Processing file run-www-pinterest-de--random-00000010.txt
+everything went ok
+Script: killing programs
+-------------------Fetched 52 URLs once
+Finished
+Die Mai 15 15:15:53 CEST 2018

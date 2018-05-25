@@ -1,0 +1,10 @@
+Last finished URL before crash:
+https://www.tumblr.com/mega-editor/ultrasparklyfoxcollector 1526252773940 1526252794407
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.tumblr.com/follow/finnhealizm
+https://www.tumblr.com/search/dank+meme
+https://www.tumblr.com/mega-editor/ultrasparklyfoxcollector
+https://www.tumblr.com/search/queer
+https://www.tumblr.com/search/parallels
+-----------------------------------

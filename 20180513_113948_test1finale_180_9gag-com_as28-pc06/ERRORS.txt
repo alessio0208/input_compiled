@@ -1,0 +1,10 @@
+Last finished URL before crash:
+https://9gag.com/video 1526206832575 1526206858862
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://9gag.com/tag/monster-hunter-world
+https://9gag.com/horror
+https://9gag.com/video
+https://9gag.com/ask9gag
+https://9gag.com/gag/aLjgKrM
+-----------------------------------

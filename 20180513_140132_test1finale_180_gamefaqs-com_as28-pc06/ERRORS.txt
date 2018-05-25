@@ -1,0 +1,16 @@
+Last finished URL before crash:
+https://gamefaqs.gamespot.com/switch/204208-xenoblade-chronicles-2 1526216106803 1526216133582
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://gamefaqs.gamespot.com/ps4/805577-bloodborne
+https://gamefaqs.gamespot.com/boards/211368-monster-hunter-world
+https://gamefaqs.gamespot.com/snes
+https://gamefaqs.gamespot.com/boards/211368-monster-hunter-world/76410950
+https://gamefaqs.gamespot.com/android
+-----------------------------------
+Last finished URL before crash:
+https://gamefaqs.gamespot.com/pc/699808-the-witcher-3-wild-hunt 1526222407627 1526222435122
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://gamefaqs.gamespot.com/xbox360
+-----------------------------------

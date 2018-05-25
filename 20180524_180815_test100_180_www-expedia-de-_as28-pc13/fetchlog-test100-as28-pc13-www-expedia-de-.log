@@ -1,0 +1,61 @@
+-------------------- NEW RUN --------------------
+Starting
+Don Mai 24 18:08:15 CEST 2018
+Script: saving information about used TBB
+pref("torbrowser.version", "7.5.2");
+user_pref("extensions.enabledAddons", "torbutton%40torproject.org:1.9.8.6,tor-launcher%40torproject.org:0.2.14.4,%7Be4a8a97b-f2ed-450b-b12d-ee082ba24781%7D:3.17,%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:52.7.2");
+Script: emptying status file
+Script: initializing number of streams and kill streams status file
+Script: saving own ip
+Script: continuosly saving ips of tor entry nodes
+Script: checking for duplicate urls
+Script: randomize url file and remove duplicates
+Script: starting tcpdump
+Script: starting Firefox
+Processing file run-www-expedia-de--random-00000000.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.expedia.de/Billigflug-Rom.d179899.Reise-Angebote-Flug
+https://www.expedia.de/Deutschland.d64.Reise-Angebote-Staedtereisen
+https://www.expedia.de/Flights-Search?trip=roundtrip&leg1=from:LUX,to:FCO,departure:26.09.2018TANYT&leg2=from:FCO,to:LUX,departure:29.09.2018TANYT&passengers=children:0,adults:1,seniors:0,infantinlap:N&mode=search&options=sortby:price&paandi=true
+https://www.expedia.de/Billigflug-Pattaya.d9514.Reise-Angebote-Flug
+https://www.expedia.de/p/iphone-ipad-app
+Last finished URL before crash:
+https://www.expedia.de/Deutschland.d64.Reise-Angebote-Staedtereisen 1527178238468 1527178240407
+Processing file run-www-expedia-de--random-00000001.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.expedia.de/Tickets-Paris.d179898.Attraktionen
+https://www.expedia.de/Billigflug-Bangkok.d178236.Reise-Angebote-Flug
+https://www.expedia.de/terms
+https://www.expedia.de/Flights-Search?trip=roundtrip&leg1=from:DUS,to:SIN,departure:26.10.2018TANYT&leg2=from:SIN,to:DUS,departure:18.11.2018TANYT&passengers=children:0,adults:1,seniors:0,infantinlap:N&mode=search&options=sortby:price&paandi=true
+https://www.expedia.de/Paris-Hotel.d179898.Reise-Angebote-Hotels
+Last finished URL before crash:
+https://www.expedia.de/terms 1527180165664 1527180167135
+Processing file run-www-expedia-de--random-00000002.txt
+everything went ok
+Processing file run-www-expedia-de--random-00000003.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.expedia.de/Stuttgart-Hotel.d6047258.Reise-Angebote-Hotels
+https://www.expedia.de/Billigflug-Adana.d288.Reise-Angebote-Flug
+https://www.expedia.de/go/package/search/FlightHotel/2018-03-14/2018-03-18?FromAirport=DUS&Destination=SAW&HotelId=1637596&NumAdult=2&DestinationId=178267&dealMarker=3-99,-1,201802250456,29,10102020,839.12,_&rfrr=page.Global-Merch.cat.cheapdeals.Deals.2.Package.1.8
+https://www.expedia.de/Arcade-Hotels-Hotel-Relais-Barco-Zonca.h5532147.Hotel-Beschreibung
+https://www.expedia.de/p/support/reisetools
+Last finished URL before crash:
+https://www.expedia.de/Billigflug-Adana.d288.Reise-Angebote-Flug 1527182387823 1527182389614
+Processing file run-www-expedia-de--random-00000004.txt
+everything went ok
+Processing file run-www-expedia-de--random-00000005.txt
+everything went ok
+Processing file run-www-expedia-de--random-00000006.txt
+everything went ok
+Processing file run-www-expedia-de--random-00000007.txt
+everything went ok
+Processing file run-www-expedia-de--random-00000008.txt
+everything went ok
+Processing file run-www-expedia-de--random-00000009.txt
+everything went ok
+Processing file run-www-expedia-de--random-00000010.txt
+everything went ok
+Script: killing programs
+-------------------Fetched 51 URLs once
+Finished
+Don Mai 24 20:41:02 CEST 2018

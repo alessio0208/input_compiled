@@ -1,0 +1,39 @@
+Last finished URL before crash:
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.meetup.com/de-DE/help/
+https://www.meetup.com/de-DE/Soul-Biz-Sisters/events/248518075/
+https://www.meetup.com/de-DE/guidelines/?subnav=usage
+https://www.meetup.com/de-DE/Lesbian-Social-Group-of-Knoxville/
+https://www.meetup.com/de-DE/sdknitorcrochet/events/248558832/
+-----------------------------------
+Last finished URL before crash:
+https://www.meetup.com/de-DE/topics/usability/ 1526441897491 1526441906906
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.meetup.com/de-DE/terms/
+https://www.meetup.com/de-DE/Women-Techmakers-Berlin
+https://www.meetup.com/de-DE/find/events/language/
+https://www.meetup.com/de-DE/ThoughtWorks-Berlin/photos/
+https://www.meetup.com/de-DE/German-Language-Events-Lernwerkstatt-Berlin/events/xbdllpyxfbcc/
+-----------------------------------
+Last finished URL before crash:
+https://www.meetup.com/de-DE/TheFamilyBerlin/members/?op=leaders 1526446310661 1526446319618
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.meetup.com/de-DE/topics/communication-skills/
+https://www.meetup.com/de-DE/TheFamilyBerlin/members/?op=leaders
+https://www.meetup.com/de-DE/privacy/
+https://www.meetup.com/de-DE/blndevops/events/248640485/
+https://www.meetup.com/de-DE/Berlin-Live-with-Awareness-Courage-and-Love-Meetup
+-----------------------------------
+Last finished URL before crash:
+https://www.meetup.com/de-DE/TheFamilyBerlin/members/?op=leaders 1526446310661 1526446319618
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.meetup.com/de-DE/cookie_policy/
+https://www.meetup.com/de-DE/CultiBL/events/248347770/
+https://www.meetup.com/de-DE/find/events/lgbtq/
+https://www.meetup.com/de-DE/register/
+https://www.meetup.com/de-DE/find/events/health-wellness/
+-----------------------------------

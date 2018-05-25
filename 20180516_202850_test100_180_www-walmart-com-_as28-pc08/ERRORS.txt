@@ -1,0 +1,39 @@
+Last finished URL before crash:
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.walmart.com/ip/Energizer-NH15BP-2-AA-Nickel-metal-Hydride-Rechargeable-Battery-AA-Nickel-Metal-Hydride-NiMH-2-Pack/887737?action=product_interest&action_type=title&beacon_version=1.0.2&bucket_id=irsbucketdefault&client_guid=b4e5db74-db14-444d-865d-3886f50d43e0&config_id=151&customer_id_enc&findingMethod=p13n&guid=b4e5db74-db14-444d-865d-3886f50d43e0&item_id=887737&parent_anchor_item_id=887743&parent_item_id=887743&placement_id=irs-151-b1&reporter=recommendations&source=new_site&strategy=PWVAV&visitor_id=Tiatgx7yVJKV0rn-WHqV2U
+https://www.walmart.com/browse/baby/baby-bath-skin-care/5427_1097005
+https://www.walmart.com/ip/Folgers-Classic-Roast-Medium-Ground-Coffee-30-5-oz/45796273
+https://www.walmart.com/cp/97116
+https://www.walmart.com/ip/Christening-Baptism-Newborn-Baby-Boy-Special-Occasion-3-Pc-Boys-Satin-Long-Pant-Set-w-Embroidered-Vest-Matching-Hat/43747708?action=product_interest&action_type=title&beacon_version=1.0.2&bucket_id=irsbucketdefault&client_guid=4ffddd48-6786-470a-8920-fc990a056a79&config_id=2&customer_id_enc&findingMethod=p13n&guid=4ffddd48-6786-470a-8920-fc990a056a79&item_id=43747708&parent_anchor_item_id=46545565&parent_item_id=46545565&placement_id=irs-2-m2&reporter=recommendations&source=new_site&strategy=PWVAV&visitor_id=Tiatgx7yVJKV0rn-WHqV2U
+-----------------------------------
+Last finished URL before crash:
+https://www.walmart.com/cp/Corporate-Gift-Card-Program/1087584?povid=1087584+%7C+contentZone2+%7C+2015-06-03+%7C+1+%7C+LN-Corporate+Gift+Cards+Global+Nav 1526498223455 1526498261097
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.walmart.com/ip/Energizer-Ultimate-Lithium-AA-8-Pack/10242684
+https://www.walmart.com/cp/Corporate-Gift-Card-Program/1087584?povid=1087584+%7C+contentZone2+%7C+2015-06-03+%7C+1+%7C+LN-Corporate+Gift+Cards+Global+Nav
+https://www.walmart.com/ip/Downy-Ultra-April-Fresh-Liquid-Fabric-Softener-150-Loads-129-Fl-Oz/21905148?action=product_interest&action_type=title&beacon_version=1.0.2&bucket_id=irsbucketdefault&client_guid=6245226b-8552-44a6-8087-970f57c32739&config_id=72&customer_id_enc&findingMethod=p13n&guid=6245226b-8552-44a6-8087-970f57c32739&item_id=21905148&parent_anchor_item_id=33963161&parent_item_id=33963161&placement_id=irs-72-b3&reporter=recommendations&source=new_site&strategy=PWVUB&visitor_id=Tiatgx7yVJKV0rn-WHqV2U
+https://www.walmart.com/ip/Better-Homes-and-Gardens-Cube-Organizer-Desk-Multiple-Finishes/49404218
+https://www.walmart.com/browse/pets/dog-beds/5440_202072_1086271
+-----------------------------------
+Last finished URL before crash:
+https://www.walmart.com/account/trackorder 1526503047511 1526503060301
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.walmart.com/ip/Equate-Ibuprofen-Pain-Reliever-Fever-Reducer-Coated-Tablets-250-ct-2-pk/20691517
+https://www.walmart.com/account/trackorder
+https://www.walmart.com/ip/Christening-Baptism-Newborn-Baby-Boy-Newborn-Baby-Special-Occasion-3-Piece-Boys-Cotton-Cross-Dobby-Vest-Satin-Long-Pant-Comes-Matching-Hat/46544504?action=product_interest&action_type=title&beacon_version=1.0.2&bucket_id=irsbucketdefault&client_guid=c9e5bd80-46f4-4587-8abb-478c5d109171&config_id=2&customer_id_enc&findingMethod=p13n&guid=c9e5bd80-46f4-4587-8abb-478c5d109171&item_id=46544504&parent_anchor_item_id=43747708&parent_item_id=43747708&placement_id=irs-2-m2&reporter=recommendations&source=new_site&strategy=PWVUB&visitor_id=Tiatgx7yVJKV0rn-WHqV2U
+https://www.walmart.com/cp/walmart-money-center/5433
+https://www.walmart.com/c/ep/aaa-energizer-batteries
+-----------------------------------
+Last finished URL before crash:
+https://www.walmart.com/ip/Energizer-AAA-Rechargeable-Nickel-Metal-Hydride-Battery-2-Pack/887743 1526506791194 1526506809395
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.walmart.com/browse/0?cat_id=4044&facet=pickup_and_delivery:Pickup%20Discount
+https://www.walmart.com/browse/baby-toddler-clothing/christening/5438_584291_584313
+https://www.walmart.com/ip/Energizer-AAA-Rechargeable-Nickel-Metal-Hydride-Battery-2-Pack/887743
+https://www.walmart.com/ip/COFFEE-MATE-Original-Powder-Coffee-Creamer-22-oz-Canister/14711867?action=product_interest&action_type=title&beacon_version=1.0.2&bucket_id=irsbucketdefault&client_guid=37dbf5e4-e398-4c78-840a-21aad08ec8e1&config_id=2&customer_id_enc&findingMethod=p13n&guid=37dbf5e4-e398-4c78-840a-21aad08ec8e1&item_id=14711867&parent_anchor_item_id=45796273&parent_item_id=45796273&placement_id=irs-2-m3&reporter=recommendations&source=new_site&strategy=PWBAB&visitor_id=Tiatgx7yVJKV0rn-WHqV2U
+https://www.walmart.com/c/kp/vitamin-c-supplements
+-----------------------------------

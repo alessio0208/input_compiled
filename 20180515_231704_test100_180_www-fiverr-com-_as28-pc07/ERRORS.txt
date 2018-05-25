@@ -1,0 +1,10 @@
+Last finished URL before crash:
+https://www.fiverr.com/categories/lifestyle/celebrity-impersonators?source=category_tree 1526420912442 1526420922164
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.fiverr.com/sneh___/design-amazing-business-card-for-you?context=adv.cat_3.subcat_56&context_type=rating&pckg_id=1&pos=24&ref_ctx_id=3ab5ac86-c78f-4596-9fea-c7dbb84e2f5b&source=category_tree&f$
+https://www.fiverr.com/categories/online-marketing/web-analytics-services?source=category_tree
+https://www.fiverr.com/categories/lifestyle/celebrity-impersonators?source=category_tree
+https://www.fiverr.com/categories/online-marketing/email-marketing?source=category_tree
+https://www.fiverr.com/pro
+-----------------------------------

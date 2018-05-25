@@ -1,0 +1,20 @@
+Last finished URL before crash:
+https://www.pinterest.de/a_gracegraham/art/ 1526384017964 1526384036033
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.pinterest.de/aallenreuss/
+https://www.pinterest.de/html_sitemap/boards_a_0_359.html
+https://www.pinterest.de/a_gracegraham/art/
+https://www.pinterest.de/a7592/stuff/
+https://www.pinterest.de/pin/749004981751888245/
+-----------------------------------
+Last finished URL before crash:
+https://www.pinterest.de/pin/862087553646371911/ 1526387255682 1526387267307
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.pinterest.de/abby739/
+https://www.pinterest.de/topics/remodels-and-restorations/
+https://www.pinterest.de/_/_/help/?utm_campaign=signup_page&utm_source=web
+https://www.pinterest.de/pin/862087553646371911/
+https://www.pinterest.de/Pin/witzig/
+-----------------------------------

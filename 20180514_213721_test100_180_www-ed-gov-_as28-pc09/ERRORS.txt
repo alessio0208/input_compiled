@@ -1,0 +1,10 @@
+Last finished URL before crash:
+https://www.ed.gov/sites/default/files/fce/summer-slide-flyer.doc 1526331911798 -5
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.ed.gov/news/press-releases/presidents-budget-expands-education-freedom-protects-vulnerable-students
+https://www.ed.gov/sites/default/files/fce/summer-slide-flyer.doc
+http://www.ed.gov/notices/tagalog-la
+https://www.ed.gov/news/press-releases/us-secretary-education-announces-chief-staff-and-additional-staff-hires
+https://www.ed.gov/family-and-community-engagement/bulletin-board/parentcamp-grand-prairie-isd
+-----------------------------------

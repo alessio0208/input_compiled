@@ -1,0 +1,10 @@
+Last finished URL before crash:
+https://www.flickr.com/help/guidelines 1526366828284 1526366839237
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://www.flickr.com/help/guidelines
+https://www.flickr.com/photos/thomas-riecken/9621306382/in/photolist-dCghzB-iDdo2D-fEcHbN-dWS6DT-qTSF27-eGwUDw-bs7NH4-eXgqLP-dSceGF-n2oGxj-21xf4J9-C8xe2x-bpQQFi-dkrH48-dWnZEg-quRVQM-G482eb-nyz9FG-qG6kLH-8tF7Y3-ebzHYY-cjBo4S-G7s34b-n2n3XH-XRokTU-hnvhBS-21euKQP-njWgkT-pd2tRn-hnuNnp-DDnvj9-6EcLxw-cfwA61-23t9cvG-fAeh7U-ANRHnm-vGUySW-P7XnpS-9gKmFs-rg6M9Y-QuafdV-Squuqh-qSh8TQ-21SX1iU-ddngBy-fLwibT-egEyhE-hagyS5-bCav7N-f4dzJo
+https://www.flickr.com/services/developer/changelog/
+https://www.flickr.com/create
+https://www.flickr.com/help/forum
+-----------------------------------

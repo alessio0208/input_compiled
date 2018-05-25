@@ -1,0 +1,9 @@
+Last finished URL before crash:
+-----------------------------------
+Storing list of potentially unfinished URLs:
+https://plus.google.com/105567288006234097071
+https://plus.google.com/105066720187337508721
+https://plus.google.com/collections/featured
+https://plus.google.com/+JasonOdell/posts/1WkkVt783V1
+https://plus.google.com/104954594357971410308/posts/bncvEpxN1K7
+-----------------------------------

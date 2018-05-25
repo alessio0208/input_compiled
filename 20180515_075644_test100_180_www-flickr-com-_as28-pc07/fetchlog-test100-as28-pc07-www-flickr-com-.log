@@ -1,0 +1,47 @@
+-------------------- NEW RUN --------------------
+Starting
+Die Mai 15 07:56:44 CEST 2018
+Script: saving information about used TBB
+pref("torbrowser.version", "7.5.2");
+user_pref("extensions.enabledAddons", "torbutton%40torproject.org:1.9.8.6,tor-launcher%40torproject.org:0.2.14.4,%7Be4a8a97b-f2ed-450b-b12d-ee082ba24781%7D:3.17,%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:52.7.2");
+Script: emptying status file
+Script: initializing number of streams and kill streams status file
+Script: saving own ip
+Script: continuosly saving ips of tor entry nodes
+Script: checking for duplicate urls
+Script: randomize url file and remove duplicates
+Script: starting tcpdump
+Script: starting Firefox
+Processing file run-www-flickr-com--random-00000000.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000001.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000002.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000003.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000004.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000005.txt
+Firefox seems to be crashed. Storing list of of potentially unfinished URLs.
+https://www.flickr.com/help/guidelines
+https://www.flickr.com/photos/thomas-riecken/9621306382/in/photolist-dCghzB-iDdo2D-fEcHbN-dWS6DT-qTSF27-eGwUDw-bs7NH4-eXgqLP-dSceGF-n2oGxj-21xf4J9-C8xe2x-bpQQFi-dkrH48-dWnZEg-quRVQM-G482eb-nyz9FG-qG6kLH-8tF7Y3-ebzHYY-cjBo4S-G7s34b-n2n3XH-XRokTU-hnvhBS-21euKQP-njWgkT-pd2tRn-hnuNnp-DDnvj9-6EcLxw-cfwA61-23t9cvG-fAeh7U-ANRHnm-vGUySW-P7XnpS-9gKmFs-rg6M9Y-QuafdV-Squuqh-qSh8TQ-21SX1iU-ddngBy-fLwibT-egEyhE-hagyS5-bCav7N-f4dzJo
+https://www.flickr.com/services/developer/changelog/
+https://www.flickr.com/create
+https://www.flickr.com/help/forum
+Last finished URL before crash:
+https://www.flickr.com/help/guidelines 1526366828284 1526366839237
+Processing file run-www-flickr-com--random-00000006.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000007.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000008.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000009.txt
+everything went ok
+Processing file run-www-flickr-com--random-00000010.txt
+everything went ok
+Script: killing programs
+-------------------Fetched 51 URLs once
+Finished
+Die Mai 15 10:04:52 CEST 2018

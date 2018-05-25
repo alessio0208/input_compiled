@@ -1,0 +1,20 @@
+Last finished URL before crash:
+http://www.bestbuy.com/site/car-safety-convenience/back-up-dash-cameras/pcmcat271800050001.c?id=pcmcat271800050001 1526467927642 1526467929093
+-----------------------------------
+Storing list of potentially unfinished URLs:
+http://www.bestbuy.com/
+http://www.bestbuy.com/site/car-safety-convenience/back-up-dash-cameras/pcmcat271800050001.c?id=pcmcat271800050001
+http://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&ks=960&sc=Global&list=y&usc=All+Categories&type=page&id=pcat17071&iht=n&seeAll=&cp=1&browsedCategory=abcat0700000&st=categoryid%24abcat0700000&qp=null%5Ecurrentoffers_facet%3DCurrent%20Offers~On%20Sale
+http://www.bestbuy.com/site/electronics/mobile-cell-phones/abcat0800000.c?id=abcat0800000
+http://www.bestbuy.com/site/sony-20-playstation-network-card/8945804.p?skuId=8945804
+-----------------------------------
+Last finished URL before crash:
+http://www.bestbuy.com/site/garage/garage-storage/pcmcat253600050029.c?id=pcmcat253600050029 1526470810091 1526470811054
+-----------------------------------
+Storing list of potentially unfinished URLs:
+http://www.bestbuy.com/site/clp/star-wars/pcmcat748300459074.c?id=pcmcat748300459074
+http://www.bestbuy.com/site/garage/garage-storage/pcmcat253600050029.c?id=pcmcat253600050029
+https://www.bestbuy.com/site/searchpage.jsp?cp=1&searchType=search&_dyncharset=UTF-8&ks=960&sc=Global&list=y&usc=All%20Categories&type=page&id=pcat17071&iht=n&seeAll=&browsedCategory=pcmcat284800050006&st=categoryid%24pcmcat284800050006&qp=brand_facet%3DBrand~Sony&sp=-bestsellingsort%20skuidsaas
+https://www.bestbuy.com/site/computer-tablet-services/geek-squad-24-7-support/pcmcat748300491896.c?id=pcmcat748300491896
+http://www.bestbuy.com/site/offer/224626/pcmcat1495053395021.c?id=pcmcat1495053395021
+-----------------------------------
